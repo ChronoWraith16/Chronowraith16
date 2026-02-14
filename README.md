@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mikael and I'm a Brazil from SÃO PAULO</p>
+<p align="left">My name is Mikael and I'm a Brazil from SÃO PAULO I am currently studying systems development.</p>
 
 ###
 
